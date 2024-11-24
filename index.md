@@ -6,3 +6,6 @@
 
 //played around with adding headers 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+``` javascript
+var myVar = "Hello this is code example";
+```

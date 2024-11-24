@@ -5,3 +5,4 @@
 ###### This is an `<h6>`header example
 
 //played around with adding headers 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)

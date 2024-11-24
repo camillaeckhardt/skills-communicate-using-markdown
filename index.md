@@ -9,3 +9,6 @@
 ``` javascript
 var myVar = "Hello this is code example";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] start next task
+- [ ] finish task take screenshot
